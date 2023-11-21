@@ -1,0 +1,5 @@
+build/
+__pycache__/
+*~
+src/cpp_sim/debug
+src/cpp_sim/release

@@ -1,0 +1,5 @@
+#pragma once
+#define INSTRS_PER_PACKET 7
+#define INSTR_SIZE 4
+#define PACKET_SIZE INSTRS_PER_PACKET*INSTR_SIZE
+#define NUM_REGISTERS 32

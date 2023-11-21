@@ -1,0 +1,1 @@
+int proc(int* temp);
